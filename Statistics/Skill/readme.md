@@ -1,1 +1,1 @@
-Test implementration in python of TrueSkill from https://github.com/moserware/Skills/tree/ee312fd39db913de2fc297951dc663e12dc7e504
+Test implementration in python of TrueSkill from https://github.com/moserware/Skills/tree/ee312fd39db913de2fc297951dc663e12dc7e504 and https://www.moserware.com/2010/03/computing-your-skill.html
