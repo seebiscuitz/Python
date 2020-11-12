@@ -1,7 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\Other",
+    "\\Project_Euler"
   ],
-  "SelectedNode": "\\readme.md",
+  "SelectedNode": "\\Project_Euler\\problem_075.py",
   "PreviewInSolutionExplorer": false
 }

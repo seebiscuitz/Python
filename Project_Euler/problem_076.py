@@ -21,7 +21,7 @@ def main():
     # generics
     _time = time()
     result = 0
-    problem = 75
+    problem = 76
     # problem specific variables
     total = 100
     # compute answer 
