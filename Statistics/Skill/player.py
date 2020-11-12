@@ -7,8 +7,10 @@ class player:
         self.stdv = self.mean / 6
         self.win = 0
         self.loss = 0
+        self.gamesplayed = 0
         self.meanhist = [self.mean]
         self.stdvhist = [self.stdv]
+        self.wlr = 0
         #self.fide = 0
         #self.uscf = 800
 
@@ -19,7 +21,10 @@ class player:
         elif wld==-1:
             self.loss += 1
         else:
-            self.draw += 0
+            self.draw += 1
+        self.gamesplayed += 1
+        if not(self.win==0 or self.loss==0):
+            self.wlr = self.win/(self.loss + self.gamesplayed)
         # update skill
         self.mean = newMean
         self.stdv = newStdv
