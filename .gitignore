@@ -1,3 +1,3 @@
 # Python repo git ignore file
 /Hash
-/Other/RTX-Stock
+#/Other/RTX-Stock

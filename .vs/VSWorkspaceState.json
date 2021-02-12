@@ -1,8 +1,9 @@
 {
   "ExpandedNodes": [
     "",
-    "\\Other"
+    "\\boids",
+    "\\Fractal"
   ],
-  "SelectedNode": "\\Other\\stock.py",
+  "SelectedNode": "\\boids\\boid.py",
   "PreviewInSolutionExplorer": false
 }
