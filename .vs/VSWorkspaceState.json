@@ -2,8 +2,9 @@
   "ExpandedNodes": [
     "",
     "\\boids",
-    "\\Fractal"
+    "\\Other",
+    "\\Project_Euler"
   ],
-  "SelectedNode": "\\boids\\boid.py",
+  "SelectedNode": "\\Other\\sound_speed.py",
   "PreviewInSolutionExplorer": false
 }

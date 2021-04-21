@@ -22,11 +22,17 @@ def main():
     # generics
     _time = time()
     result = 0
-    problem = 76
+    problem = 79
     # problem specific variables
-    
+    numbers = set()
+    keylog = []
     # compute answer 
     
+    f = open("C:/Users/Tom/Documents/Projects/Python/Project_Euler/problem_079.txt","r")
+    
+    for char_entry in f:
+        print(char_entry)
+ 
     # output to screen
     project_euler.__output(time() - _time, problem, result)
     return 
