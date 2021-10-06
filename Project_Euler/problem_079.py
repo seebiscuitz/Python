@@ -32,7 +32,7 @@ def main():
     
     for char_entry in f:
         print(char_entry)
- 
+    
     # output to screen
     project_euler.__output(time() - _time, problem, result)
     return 
